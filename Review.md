@@ -16,7 +16,7 @@ Middleware is separate software that serve as the glue between two applications
 A resource is data that the Express API endpoint serves to the client
 
 ## What can the API return to help clients know if a request was successful?
-   status e.g. (200)
+   http status codes e.g. (200)
 
 ## What is CORS and why do we need it?
   Cross-origin resource sharing (cors) is a mechanism that allows a restricted resource to be accessed outside the
