@@ -13,6 +13,7 @@
 Middleware is separate software that serve as the glue between two applications
 
 ## What is a Resource?
+A resource is data that the Express API endpoint serves to the client
 
 ## What can the API return to help clients know if a request was successful?
    status e.g. (200)
